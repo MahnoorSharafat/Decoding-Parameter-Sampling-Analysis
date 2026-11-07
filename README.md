@@ -125,7 +125,7 @@ The experiments demonstrated that Temperature, Top-K, and Top-P influence the co
 
 | Name | Registration Number |
 |---|---|
-| Mehak | 2026-MS-AI-17 |
 | Mahnoor Sharafat | 2026-MS-AI-28 |
+| Mehak | 2026-MS-AI-17 |
 | Ayesha Tariq | 2026-MS-AI-36 |
 | Bareera Zaheer | 2026-MS-AI-02 |
